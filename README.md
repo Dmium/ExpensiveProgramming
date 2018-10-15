@@ -11,7 +11,7 @@ Note: The system uses mod 8 so 65 pence is the equivilent to 1 pence if you're f
 
 | Minimum Amount (Pennies)  | Brainfuck Equivalent |
 | ------------- | ------------- |
-| 0  | Delete previous program of the same name |
+| 10  | Delete previous program of the same name |
 | 1  | + |
 | 2  | - |
 | 3  | > |
@@ -28,6 +28,8 @@ Requires the monzo python library https://github.com/muyiwaolu/monzo-python
 Create a program. Here's an example:
 
 ![Example Program](exampls.png?raw=true "Example Program")
+
+Note: The entire program refuses to screenshot for some reason. Will fix later.
 
 Run:
 
