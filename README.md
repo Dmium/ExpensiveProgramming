@@ -20,4 +20,3 @@ Note: The system uses mod 8 so 65 pence is the equivilent to 1 pence if you're f
 | 6  | ] |
 | 7  | , |
 | 8  | . |
-| Content Cell  | Content Cell  |
