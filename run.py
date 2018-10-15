@@ -49,5 +49,5 @@ for transaction in transactions['transactions']:
         if transaction['amount'] == 0:
             instructions = []
         else:
-            instructions.append(transaction['amount'] % 8)
+            instructions.append(abs(transaction['amount']) % 8)
 interpret(instructions)
