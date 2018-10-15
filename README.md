@@ -35,3 +35,8 @@ python run.py
 
 # Notes
 This has a clear RCE vulnerability but it's funny so I'm keeping it (Also it's unlikely to break your computer)
+
+# Donate
+https://monzo.me/dominiczheyuanhall
+
+I accept donations in the form of programs. I will run them please don't murder my poor laptop.
