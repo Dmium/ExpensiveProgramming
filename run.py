@@ -46,7 +46,7 @@ instructions = []
 pname = input("Please enter name of program: ")
 for transaction in transactions['transactions']:
     if pname in transaction['notes']:
-        if transaction['amount'] == 0:
+        if transaction['amount'] == 10:
             instructions = []
         else:
             instructions.append(abs(transaction['amount']) % 8)
