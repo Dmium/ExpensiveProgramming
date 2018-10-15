@@ -20,3 +20,12 @@ Note: The system uses mod 8 so 65 pence is the equivilent to 1 pence if you're f
 | 6  | ] |
 | 7  | , |
 | 8  | . |
+
+# Requirements
+Requires the monzo python library https://github.com/muyiwaolu/monzo-python
+
+# Usage
+Run run.pu
+
+# Notes
+This has a clear RCE vulnerability but it's funny so I'm keeping it (Also it's unlikely to break your computer)
