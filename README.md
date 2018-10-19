@@ -35,6 +35,11 @@ Run:
 
 python run.py
 
+# Calculator Script
+Included in the calculator folder is a script for working out the cost of running a Brainfuck program in ExpensiveProgramming.
+
+Usage: ```python calculator.py example.bf``` will output ```£2.50```.
+
 # Notes
 This has a clear RCE vulnerability but it's funny so I'm keeping it (Also it's unlikely to break your computer)
 
